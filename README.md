@@ -7,3 +7,4 @@ Cloudflare : https://abuse.cloudflare.com/
 Google Safe Browsing: https://safebrowsing.google.com/safebrowsing/report_general/
 BitDefender : https://www.bitdefender.com/consumer/support/answer/29358/
 
+Microsoft: https://msrc.microsoft.com/report/
