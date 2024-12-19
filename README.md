@@ -8,3 +8,8 @@ Google Safe Browsing: https://safebrowsing.google.com/safebrowsing/report_genera
 BitDefender : https://www.bitdefender.com/consumer/support/answer/29358/
 
 Microsoft: https://msrc.microsoft.com/report/
+
+Surveymonkey: abuse@serveymonkey.com
+
+Gmail: https://support.google.com/mail/contact/abuse?hl=en&sjid=3888987121398212082-EU
+
